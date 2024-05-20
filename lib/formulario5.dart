@@ -23,10 +23,10 @@ class PageFive extends StatelessWidget {
               keyboardType: TextInputType.phone,
               decoration: InputDecoration(
                 hintText: "ID Ventas",
-                prefixIcon: Icon(Icons.person, color: Color(0xff01165c)),
+                prefixIcon: Icon(Icons.person, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -41,10 +41,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Fecha",
                 prefixIcon:
-                    Icon(Icons.add_circle_outline, color: Color(0xff01165c)),
+                    Icon(Icons.add_circle_outline, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -59,10 +59,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Producto vendido",
                 prefixIcon:
-                    Icon(Icons.sd_card_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.sd_card_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -77,10 +77,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Cantidad",
                 prefixIcon:
-                    Icon(Icons.headphones_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.headphones_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -95,10 +95,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Total",
                 prefixIcon:
-                    Icon(Icons.phone_android_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.phone_android_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -113,10 +113,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Metodo",
                 prefixIcon:
-                    Icon(Icons.monetization_on, color: Color(0xff01165c)),
+                    Icon(Icons.monetization_on, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -131,10 +131,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "ID cliente",
                 prefixIcon:
-                    Icon(Icons.groups_2_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.groups_2_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -149,10 +149,10 @@ class PageFive extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "ID empleado",
                 prefixIcon:
-                    Icon(Icons.person_off_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.person_off_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),

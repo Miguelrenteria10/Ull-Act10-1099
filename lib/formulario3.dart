@@ -24,10 +24,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "ID Producto",
                 prefixIcon:
-                    Icon(Icons.add_chart_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.add_chart_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -42,10 +42,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Nombre",
                 prefixIcon:
-                    Icon(Icons.add_circle_outline, color: Color(0xff01165c)),
+                    Icon(Icons.add_circle_outline, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -60,10 +60,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Tipo",
                 prefixIcon:
-                    Icon(Icons.sd_card_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.sd_card_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -78,10 +78,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Precio",
                 prefixIcon:
-                    Icon(Icons.headphones_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.headphones_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -96,10 +96,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Stock",
                 prefixIcon:
-                    Icon(Icons.phone_android_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.phone_android_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -114,10 +114,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "MATERIAL",
                 prefixIcon:
-                    Icon(Icons.person_2_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.person_2_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -133,10 +133,10 @@ class PageThree extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "tamaño",
                 prefixIcon:
-                    Icon(Icons.monetization_on, color: Color(0xff01165c)),
+                    Icon(Icons.monetization_on, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -154,11 +154,11 @@ class PageThree extends StatelessWidget {
                     color: Color(0xff01165c)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xffff0b0b), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
               ),
             ),

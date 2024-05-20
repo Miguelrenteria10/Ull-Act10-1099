@@ -24,10 +24,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "ID Empleado",
                 prefixIcon:
-                    Icon(Icons.add_circle_outline, color: Color(0xff01165c)),
+                    Icon(Icons.add_circle_outline, color: Color(0xffff0000)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff0000), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -41,11 +41,11 @@ class PageTwo extends StatelessWidget {
               controller: id_chip,
               decoration: InputDecoration(
                 prefixIcon:
-                    Icon(Icons.sd_card_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.sd_card_rounded, color: Color(0xffff0000)),
                 hintText: "Nombre",
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff0000)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -60,10 +60,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Apellido",
                 prefixIcon:
-                    Icon(Icons.headphones_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.headphones_rounded, color: Color(0xffff0000)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff0000), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -78,10 +78,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Puesto",
                 prefixIcon:
-                    Icon(Icons.phone_android_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.phone_android_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -96,10 +96,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Departamento",
                 prefixIcon:
-                    Icon(Icons.money_off_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.money_off_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -113,11 +113,11 @@ class PageTwo extends StatelessWidget {
               controller: ofer_chip,
               decoration: InputDecoration(
                 prefixIcon:
-                    Icon(Icons.money_off_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.money_off_rounded, color: Color(0xffff1e1e)),
                 hintText: "Ciudad",
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -132,10 +132,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Edad",
                 prefixIcon:
-                    Icon(Icons.money_off_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.money_off_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -150,10 +150,10 @@ class PageTwo extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Correo Electronico",
                 prefixIcon:
-                    Icon(Icons.money_off_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.money_off_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),

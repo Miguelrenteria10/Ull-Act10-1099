@@ -24,10 +24,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "ID cliente",
                 prefixIcon:
-                    Icon(Icons.add_circle_outline, color: Color(0xff01165c)),
+                    Icon(Icons.add_circle_outline, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -41,11 +41,11 @@ class PageOne extends StatelessWidget {
               controller: nombre_paq_o_rec,
               decoration: InputDecoration(
                 prefixIcon:
-                    Icon(Icons.text_fields_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.text_fields_rounded, color: Color(0xffff1e1e)),
                 hintText: "Numero",
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -60,10 +60,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Direccion",
                 prefixIcon:
-                    Icon(Icons.sd_card_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.sd_card_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -78,10 +78,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Correo Electronico",
                 prefixIcon:
-                    Icon(Icons.text_snippet_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.text_snippet_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -96,10 +96,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Nombre",
                 prefixIcon:
-                    Icon(Icons.headphones_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.headphones_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -113,11 +113,11 @@ class PageOne extends StatelessWidget {
               controller: nom_accesorio,
               decoration: InputDecoration(
                 prefixIcon:
-                    Icon(Icons.keyboard_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.keyboard_rounded, color: Color(0xffff1e1e)),
                 hintText: "Apellido",
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -132,10 +132,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "CP",
                 prefixIcon:
-                    Icon(Icons.phone_android_rounded, color: Color(0xff01165c)),
+                    Icon(Icons.phone_android_rounded, color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff), width: 2),
+                  borderSide: BorderSide(color: Color(0xffff1e1e), width: 2),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
@@ -150,10 +150,10 @@ class PageOne extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: "Estado",
                 prefixIcon: Icon(Icons.phonelink_setup_rounded,
-                    color: Color(0xff01165c)),
+                    color: Color(0xffff1e1e)),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
-                  borderSide: BorderSide(color: Color(0xff00afff)),
+                  borderSide: BorderSide(color: Color(0xffff1e1e)),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(11),
